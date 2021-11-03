@@ -70,11 +70,26 @@
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Contact.xbf">
+      <PackagePath>FormDemo\Contact.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Customer.xbf">
+      <PackagePath>FormDemo\Customer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Home.xbf">
+      <PackagePath>FormDemo\Home.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Mail.xbf">
+      <PackagePath>FormDemo\Mail.xbf</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Session1\BT1.xbf">
       <PackagePath>Session1\BT1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Session2\BT2.xbf">
+      <PackagePath>Session2\BT2.xbf</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>

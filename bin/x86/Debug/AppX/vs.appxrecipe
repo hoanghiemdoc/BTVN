@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>F0A5BBE694C4E107702E829B5B7620FBEE8BD3950EF8C84A60C8DB200808BC58</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>5E650B48065A8849DC30AA466D1247697AA9DB14074D5D6CA0F28EA43286670A</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d27213a8-81f2-4454-8370-9a61eb3722bb_1.0.0.0_x86__325rwxdznmp7y</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d27213a8-81f2-4454-8370-9a61eb3722bb_325rwxdznmp7y!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d27213a8-81f2-4454-8370-9a61eb3722bb</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-10-31T11:09:18.602</Modified>
+      <Modified>2021-11-03T04:39:35.377</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\BTVN.exe">
       <PackagePath>entrypoint\BTVN.exe</PackagePath>
-      <Modified>2021-10-31T11:09:16.082</Modified>
+      <Modified>2021-11-03T04:39:34.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -86,19 +86,39 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\BTVN.xr.xml">
       <PackagePath>BTVN.xr.xml</PackagePath>
-      <Modified>2021-10-31T11:09:15.869</Modified>
+      <Modified>2021-11-03T04:30:34.571</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-10-31T11:09:15.946</Modified>
+      <Modified>2021-11-03T04:39:34.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Contact.xbf">
+      <PackagePath>FormDemo\Contact.xbf</PackagePath>
+      <Modified>2021-11-03T04:39:34.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Customer.xbf">
+      <PackagePath>FormDemo\Customer.xbf</PackagePath>
+      <Modified>2021-11-03T04:39:34.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Home.xbf">
+      <PackagePath>FormDemo\Home.xbf</PackagePath>
+      <Modified>2021-11-03T04:39:34.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\FormDemo\Mail.xbf">
+      <PackagePath>FormDemo\Mail.xbf</PackagePath>
+      <Modified>2021-11-03T04:39:34.109</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-10-31T11:09:15.947</Modified>
+      <Modified>2021-11-03T04:39:34.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Session1\BT1.xbf">
       <PackagePath>Session1\BT1.xbf</PackagePath>
-      <Modified>2021-10-31T11:09:15.947</Modified>
+      <Modified>2021-11-03T04:39:34.110</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Session2\BT2.xbf">
+      <PackagePath>Session2\BT2.xbf</PackagePath>
+      <Modified>2021-11-03T04:39:34.110</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.19041.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -106,11 +126,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-10-31T11:09:16.972</Modified>
+      <Modified>2021-11-03T01:38:29.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\ky3-c#\T2010A-C#\BTVN-C#\BTVN\bin\x86\Debug\Core\BTVN.exe">
       <PackagePath>BTVN.exe</PackagePath>
-      <Modified>2021-10-31T11:09:18.593</Modified>
+      <Modified>2021-11-03T04:39:35.370</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

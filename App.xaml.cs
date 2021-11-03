@@ -66,7 +66,7 @@ namespace BTVN
                     // When the navigation stack isn't restored navigate to the first page,
                     // configuring the new page by passing required information as a navigation
                     // parameter
-                    rootFrame.Navigate(typeof(Session1.BT1), e.Arguments);
+                    rootFrame.Navigate(typeof(Session2.BT2), e.Arguments);
                 }
                 // Ensure the current window is active
                 Window.Current.Activate();
